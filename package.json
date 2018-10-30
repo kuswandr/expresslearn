@@ -1,0 +1,17 @@
+{
+  "name": "belajarmore",
+  "version": "1.0.0",
+  "description": "mengimplementasikan crud pada node js dengan menggunakan mysql dan express, namun tidak menutup kemungkinan jika di project ini akan ada tambahan lain jika memang dibutuhkan",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kuswan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  }
+}
